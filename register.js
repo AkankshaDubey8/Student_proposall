@@ -1,4 +1,4 @@
-const API = "http://localhost:3000";
+const API = "https://your-backend-link.onrender.com";
 
 document.getElementById("registerForm").addEventListener("submit", async (e) => {
   e.preventDefault();
