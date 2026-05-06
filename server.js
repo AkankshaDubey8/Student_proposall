@@ -4,9 +4,9 @@ const fs = require("fs");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-
 app.use(cors());
 app.use(express.json());
+app.use(express.static(__dirname));
 
 let notifications = [];
 
@@ -173,6 +173,9 @@ app.delete("/proposals/:id", (req, res) => {
 });
 
 // ================= START =================
+app.get("/", (req, res) => {
+  res.sendFile(__dirname + "/login.html");
+});
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
