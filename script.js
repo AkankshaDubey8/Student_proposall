@@ -1,4 +1,4 @@
-const API = "https://your-backend-link.onrender.com";
+const API = window.location.origin;
 
 // 🔐 ROLE CHECK
 const role =
