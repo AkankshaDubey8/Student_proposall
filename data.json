@@ -1,0 +1,220 @@
+{
+  "proposals": [
+    {
+      "id": 1777904943541,
+      "title": " mfnmaf",
+      "description": "ffsafdg",
+      "proposer": "Akanksha",
+      "priority": "Low",
+      "deadline": "",
+      "status": "Completed",
+      "feedback": "nice",
+      "pinned": false,
+      "createdAt": "2026-05-04T14:29:03.541Z",
+      "progress": 100,
+      "team": [
+        "aKANKSHA"
+      ],
+      "tasks": [
+        {
+          "id": "1778050848381",
+          "text": "to make login",
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "id": 1778052102269,
+      "title": "Shopping website",
+      "description": "Creating a website",
+      "proposer": "Riya",
+      "priority": "Medium",
+      "deadline": "2026-05-14",
+      "status": "Approved",
+      "progress": 0,
+      "team": [],
+      "tasks": [],
+      "comments": [],
+      "feedback": "it is nice",
+      "pinned": false,
+      "createdAt": "2026-05-06T07:21:42.269Z",
+      "aiScore": 30,
+      "aiSuggestions": [
+        "Add more details"
+      ]
+    }
+  ],
+  "logs": [
+    "🆕 User \"Lakshya\" registered",
+    "🆕 User \"Akanksha\" registered",
+    "📥 Proposal \" mfnmaf\" submitted",
+    "🆕 User \"admin\" registered",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "📥 Proposal \"TravelX\" submitted",
+    "✏️ Proposal \"TravelX\" updated",
+    "✏️ Proposal \"TravelX\" updated",
+    "✏️ Proposal \"TravelX\" updated",
+    "✏️ Proposal \"TravelX\" updated",
+    "📥 Proposal \"Make My trip\" submitted",
+    "✏️ Proposal \"Make My trip\" updated",
+    "✏️ Proposal \"Make My trip\" updated",
+    "✏️ Proposal \"Make My trip\" updated",
+    "✏️ Proposal \"Make My trip\" updated",
+    "🆕 User \"admins\" registered",
+    "🆕 User \"Admins\" registered",
+    "🆕 User \"Akanksha Dubey\" registered",
+    "🆕 User \"Akanksha Dubeyy\" registered",
+    "🆕 User \"Ashu Dubey\" registered",
+    "📥 Proposal \"cb\" submitted",
+    "🆕 User \"Adminn\" registered",
+    "🆕 User \"Adminns\" registered",
+    "🆕 User \"Mas\" registered",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "✏️ Proposal \"cb\" updated",
+    "✏️ Proposal \"Make My trip\" updated",
+    "✏️ Proposal \"TravelX\" updated",
+    "✏️ Proposal \"TravelX\" updated",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "❌ Proposal deleted",
+    "❌ Proposal deleted",
+    "❌ Proposal deleted",
+    "🆕 User \"Akankshaa\" registered",
+    "📥 Proposal \"Movie ticket booking\" submitted",
+    "🆕 User \"Adm\" registered",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "✏️ Proposal \"Movie ticket booking\" updated",
+    "✏️ Proposal \"Movie ticket booking\" updated",
+    "❌ Proposal deleted",
+    "❌ Proposal deleted",
+    "❌ Proposal deleted",
+    "❌ Proposal deleted",
+    "❌ Proposal deleted",
+    "❌ Proposal deleted",
+    "❌ Proposal deleted",
+    "❌ Proposal deleted",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "📥 Proposal \"ghh\" submitted",
+    "🆕 User \"ads\" registered",
+    "🆕 User \"Ads\" registered",
+    "✏️ Proposal \"ghh\" updated",
+    "✏️ Proposal \"ghh\" updated",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "🆕 User \"Shreya\" registered",
+    "📥 Proposal \"Grocery\" submitted",
+    "🆕 User \"ADMIN\" registered",
+    "✏️ Proposal \"Grocery\" updated",
+    "✏️ Proposal \"ghh\" updated",
+    "❌ Proposal deleted",
+    "✏️ Proposal \"Grocery\" updated",
+    "✏️ Proposal \"Grocery\" updated",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "🆕 User \"Riya\" registered",
+    "📥 Proposal \"Shopping website\" submitted",
+    "🆕 User \"Mads\" registered",
+    "✏️ Proposal \"Shopping website\" updated",
+    "✏️ Proposal \" mfnmaf\" updated",
+    "❌ Proposal deleted"
+  ],
+  "users": [
+    {
+      "username": "Lakshya",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "Akanksha",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "admins",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "username": "Admins",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "username": "Akanksha Dubey",
+      "password": "128",
+      "role": "student"
+    },
+    {
+      "username": "Akanksha Dubeyy",
+      "password": "1244",
+      "role": "student"
+    },
+    {
+      "username": "Ashu Dubey",
+      "password": "1244",
+      "role": "student"
+    },
+    {
+      "username": "Adminn",
+      "password": "128",
+      "role": "student"
+    },
+    {
+      "username": "Adminns",
+      "password": "128",
+      "role": "admin"
+    },
+    {
+      "username": "Mas",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "Akankshaa",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "Adm",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "ads",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "Ads",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "Shreya",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "ADMIN",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "Riya",
+      "password": "123",
+      "role": "student"
+    },
+    {
+      "username": "Mads",
+      "password": "123",
+      "role": "admin"
+    }
+  ]
+}
